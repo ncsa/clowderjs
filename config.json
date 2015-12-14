@@ -1,0 +1,17 @@
+{
+  "dev": {
+    "url": "",
+    "username": "",
+    "password": ""
+  },
+  "prod": {
+    "url": "",
+    "username": "",
+    "password": ""
+  },
+  "local": {
+    "url": "",
+    "username": "",
+    "password": ""
+  }
+}
