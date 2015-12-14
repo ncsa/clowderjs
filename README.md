@@ -3,7 +3,9 @@ Node.js library for [Clowder](https://clowder.ncsa.illinois.edu).
 
 ## Installation
 ```
-npm install clowder --save
+git clone ssh://git@opensource.ncsa.illinois.edu:7999/cats/clowderjs.git
+cd clowderjs
+npm install
 ```
 
 ## Setup
