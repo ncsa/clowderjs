@@ -16,9 +16,6 @@
     "type": "git",
     "url": "https://opensource.ncsa.illinois.edu/bitbucket/projects/CATS/repos/clowderjs/browse"
   },
-  "author": {
-    "name": "Brock Angelo",
-    "email": "jba@illinois.edu"
-  },
+  "author": "Brock Angelo <brockangelo@gmail.com>",
   "license": "MIT"
 }
