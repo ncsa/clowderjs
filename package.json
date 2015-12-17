@@ -1,21 +1,31 @@
 {
   "name": "clowderjs",
-  "version": "1.0.1",
   "description": "Node.js library for Clowder",
+  "version": "1.0.1",
+  "keywords": [
+    "clowder",
+    "ncsa",
+    "illinois",
+    "js"
+  ],
+  "homepage": "https://clowder.ncsa.illinois.edu/",
+  "author": "Brock Angelo <brockangelo@gmail.com>",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ncsa/clowderjs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ncsa/clowderjs/issues"
+  },
+  "license": "MIT",
   "dependencies": {
     "async": "^1.5.0",
     "request": "^2.67.0",
     "underscore": "^1.8.3"
   },
   "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ncsa/clowderjs.git"
-  },
-  "author": "Brock Angelo <brockangelo@gmail.com>",
-  "license": "MIT"
 }
