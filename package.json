@@ -1,7 +1,7 @@
 {
   "name": "clowderjs",
   "description": "Node.js library for Clowder",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "keywords": [
     "clowder",
     "ncsa",
